@@ -1,7 +1,7 @@
 # Overview
-This program prints hello world in python.
+This program prints hello world in Python.
 
-It is to help me learn how to commit code and write better READMEs and documentation.
+This program's purpose is to help me learn how to commit code and write better READMEs and documentation.
 
 [Software Demo Video](https://youtu.be/Aa1E3Hc5Y8E)
 
