@@ -1,34 +1,19 @@
 # Overview
+This program prints hello world in python.
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This program prints hello world in Python.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+youtube link to video demonstration:
+https://youtu.be/Aa1E3Hc5Y8E
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+I used vim and vs code to write the code and OBS to record the video.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 * [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)
-
----
-
-This program prints hello world in python.
-
-This program prints hello world in Python. Playing with obs and vim.
-
-youtube link to video demonstration:
-https://youtu.be/Aa1E3Hc5Y8E
-
-I used vim and vs code and Python.
