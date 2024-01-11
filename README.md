@@ -3,10 +3,7 @@ This program prints hello world in python.
 
 This program prints hello world in Python.
 
-youtube link to video demonstration:
-https://youtu.be/Aa1E3Hc5Y8E
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Aa1E3Hc5Y8E)
 
 # Development Environment
 
