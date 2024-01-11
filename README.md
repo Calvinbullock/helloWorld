@@ -12,5 +12,4 @@ I used vim and vs code to write the code and OBS to record the video.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Python Docs](https://docs.python.org/3/)
